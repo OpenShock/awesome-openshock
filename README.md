@@ -38,6 +38,17 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 - [OpenShock ShockOSC](https://github.com/OpenShock/ShockOSC)
   - Maintained by the OpenShock team
 
+## Game Assets
+
+- [Liindy's Shock Collar](https://liindy.gumroad.com/l/Shock)
+  - Created by [Liindy](https://liindy.gumroad.com)
+
+- [Kyobinoyo's Shocker Model Prefab](https://kyobinoyo.gumroad.com/l/idkbu)
+  - Created by [Kyobinoyo](https://kyobinoyo.gumroad.com)
+
+- [Kyobinoyo's ShockOSC Remote Trigger Prefab](https://kyobinoyo.gumroad.com/l/xhxukh)
+  - Created by [Kyobinoyo](https://kyobinoyo.gumroad.com)
+
 ## Game Mods
 
 ### Minecraft
@@ -55,6 +66,26 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 - [OpenShock LethalCompany](https://github.com/OpenShock/Integrations.LethalCompany)
   - Maintained by the OpenShock team
 
+### The Binding of Isaac
+
+- [ShockedIsaac](https://github.com/miterosan/ShockedIsaac)
+  - Created by [Miterosan](https://github.com/miterosan)
+
+### Geometry Dash
+
+- [OpenShock-GD](https://github.com/JaydenTheNardo/OpenShock-GD)
+  - Created by [JaydenTheNardo](https://github.com/JaydenTheNardo)
+
+### Balatro
+
+- [OpenShockBalatro](https://github.com/LostQuasar/OpenShockBalatro)
+  - Created by [LostQuasar](https://github.com/LostQuasar)
+
+## Command Line utilities
+
+- [OpenShock TUI](https://github.com/LostQuasar/openshock-tui)
+  - Created by [LostQuasar](https://github.com/LostQuasar)
+
 ## Libraries
 
 ### C#
@@ -67,14 +98,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 - [rzap](https://github.com/LostQuasar/rzap)
   - Created by [LostQuasar](https://github.com/LostQuasar)
 
-## 3D Assets
-
-### 3D Printing
+## 3D Printing
 
 - [OpenShock 3DPrints](https://github.com/OpenShock/3DPrints)
   - Maintained by the OpenShock team
-
-### Game Files
 
  ## Deprecated
 

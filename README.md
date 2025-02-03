@@ -43,13 +43,16 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 
 ## Game Assets
 
+- [ZenithVal's ShockOSC Remote](https://zenithval.booth.pm/items/6531509)
+  - Created by [ZenithVal](https://github.com/ZenithVal)
+
 - [Liindy's Shock Collar](https://liindy.gumroad.com/l/Shock)
   - Created by [Liindy](https://liindy.gumroad.com)
 
-- [Kyobinoyo's Shocker Model Prefab](https://kyobinoyo.gumroad.com/l/idkbu)
+- [Kyobinoyo's ShockOSC Remote Trigger Prefab](https://kyobinoyo.gumroad.com/l/xhxukh)
   - Created by [Kyobinoyo](https://kyobinoyo.gumroad.com)
 
-- [Kyobinoyo's ShockOSC Remote Trigger Prefab](https://kyobinoyo.gumroad.com/l/xhxukh)
+- [Kyobinoyo's Shocker Model Prefab](https://kyobinoyo.gumroad.com/l/idkbu)
   - Created by [Kyobinoyo](https://kyobinoyo.gumroad.com)
 
 ## Game Mods

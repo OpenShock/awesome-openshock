@@ -18,6 +18,9 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 - [OpenShock VROverlay](https://github.com/OpenShock/VROverlay)
   - Maintained by the OpenShock team
 
+- [ShockAlarm](https://github.com/ComputerElite/ShockAlarmApp) (alternative OpenShock Frontend with extra features for mobile, web and Linux)
+  - Created by [ComputerElite](https://github.com/ComputerElite/)
+
 ### Stream Integration
 
 - [TipLink Desktop](https://bobadev.gumroad.com/l/tiplink)

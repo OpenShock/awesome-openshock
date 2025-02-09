@@ -86,6 +86,10 @@ list? [Submit an issue to this repo and let us know!](https://github.com/OpenSho
 
 - [OpenShockBalatro](https://github.com/LostQuasar/OpenShockBalatro)
   - Created by [LostQuasar](https://github.com/LostQuasar)
+ 
+### Celeste
+- [OpenshockCeleste](https://github.com/Pandaptable/openshock-celeste)
+  - Created by [Pandaptable](https://github.com/Pandaptable)
 
 ## Command Line utilities
 

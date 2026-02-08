@@ -130,7 +130,7 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 - 🟡 [OpenShock TUI](https://github.com/LostQuasar/openshock-tui) - Terminal user interface for controlling OpenShock devices.
   - Created by [LostQuasar](https://github.com/LostQuasar)
-- 🟡 [OpenShock-AutoFlasher](https://github.com/NanashiTheNameless/OpenShock-AutoFlasher) - Automated bulk-oriented flashing utility for OpenShock hubs, Designed especially for vendors.
+- 🟡 [OpenShock-AutoFlasher](https://github.com/NanashiTheNameless/OpenShock-AutoFlasher) - Automated bulk-oriented flashing utility for OpenShock hubs; designed especially for vendors.
   - Created by [NanashiTheNameless](https://github.com/NanashiTheNameless)
 
 ## Libraries

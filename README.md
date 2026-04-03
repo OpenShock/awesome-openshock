@@ -111,7 +111,11 @@ Have a finished (or even work in progress but generally working) project you'd l
 
 ### VintageStory
 - 🟡 [VintageShock](https://github.com/NanashiTheNameless/VintageShock) - VintageStory shocker integration. [VSModDB](https://mods.vintagestory.at/vintageshock)
-  - Created by [namelessnanashi](https://github.com/NanashiTheNameless/VintageShock)
+  - Created by [NanashiTheNameless](https://github.com/NanashiTheNameless)
+
+### Lichess.org
+- 🟡 [ChessShock](https://github.com/NanashiTheNameless/ChessShock) - [Lichess.org](https://lichess.org/) shocker integration.
+  - Created by [NanashiTheNameless](https://github.com/NanashiTheNameless)
 
 ## Game Assets
 

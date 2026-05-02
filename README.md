@@ -117,6 +117,11 @@ Have a finished (or even work in progress but generally working) project you'd l
 - 🟡 [ChessShock](https://github.com/NanashiTheNameless/ChessShock) - [Lichess.org](https://lichess.org/) shocker integration.
   - Created by [NanashiTheNameless](https://github.com/NanashiTheNameless)
 
+### Noita
+
+- 🟡 [Noita-OpenShock-Integration](https://github.com/ProjectBots/Noita-OpenShock-Integration) - Mod that shocks when taking damage or dying.
+  - Created by [ProjectBots](https://github.com/ProjectBots)
+
 ## Game Assets
 
 - 🟡 [ZenithVal's ShockOSC Remote](https://zenithval.booth.pm/items/6531509) - VRChat remote prefab for triggering shocks.

@@ -37,7 +37,7 @@ Have a finished (or even work in progress but generally working) project you'd l
   - Created by [ComputerElite](https://github.com/ComputerElite/)
 - 🟡 [3DShock](https://github.com/ComputerElite/3DShock) - Nintendo 3DS homebrew client for controlling OpenShock devices.
   - Created by [ComputerElite](https://github.com/ComputerElite)
-- 🟡 [ProfanityShock](https://github.com/Quatumus/ProfanityShock) - Voice recogniztion profanity detector.
+- 🟡 [VoiceShock](https://github.com/Quatumus/VoiceShock) - Voice recogniztion profanity detector.
   - Created by [Quatumus](https://github.com/Quatumus)
 
 ### Stream Integration

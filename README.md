@@ -170,3 +170,5 @@ Have a finished (or even work in progress but generally working) project you'd l
 - [Flat Shocker Mod](https://github.com/tommaier123/FlatShocker)
   - Replaces the Stock electrodes with flat discs on the CaiXianlin Shockers.
   - Created by https://github.com/tommaier123
+- [StereoShock](https://github.com/FenFoxxx/StereoShock)
+  - adapter for using TENS style pads with the shock collars used in the OpenShock project

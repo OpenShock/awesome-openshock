@@ -154,6 +154,11 @@ Have a finished (or even work in progress but generally working) project you'd l
 - 🟡 [rzap](https://github.com/LostQuasar/rzap) - Rust crate to interact with OpenShock API.
   - Created by [LostQuasar](https://github.com/LostQuasar)
 
+### Java
+
+- 🟡 [JavaShock](https://github.com/JoshiCodes/JavaShock) - Simple Java Wrapper for OpenShock
+  - Created by [JoshiCodes](https://github.com/JoshiCodes)
+
 ## 3D Printing
 
 - 🟢 [OpenShock 3DPrints](https://github.com/OpenShock/3DPrints) - 3D-printable designs for OpenShock hardware.
